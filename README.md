@@ -1,4 +1,4 @@
 JMSExample
 ==========
 
-JMS example for producer/consumer using AcrtiveMQ
+JMS example for producer/consumer using ActiveMQ
